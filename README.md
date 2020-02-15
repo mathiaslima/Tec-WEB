@@ -6,6 +6,3 @@ Um pouco sobre meu curso técnico em informatica para internet.
 
 ## PROJETOS
 
-
-## OBAMA
-
